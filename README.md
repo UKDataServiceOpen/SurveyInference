@@ -1,3 +1,6 @@
+<img src="pics/UKDS_Logos_Col_Grey_300dpi.png" alt="UK Data Service Logo" style="width:256px;"/>
+
+
 # Population Inference with Social Surveys
 UK Data Service training resources for learning statistical inference from large scale social surveys using weights and survey design variables 
 
